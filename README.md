@@ -4,7 +4,7 @@
 
 - Aplicación Compose multiplataforma
 - Clean Architecture
-- Ktor: Consumo de Api REST
+- Ktor: Client (Api REST)
 - Koin: Inyector de dependencias
 - SQLDelight: Persistencia de datos
 - MVVM
